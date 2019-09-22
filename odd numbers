@@ -1,0 +1,6 @@
+#!/bin/sh
+//print odd numbers using loop//
+for i in {1..100..2}
+  do
+     echo  $i 
+ done
